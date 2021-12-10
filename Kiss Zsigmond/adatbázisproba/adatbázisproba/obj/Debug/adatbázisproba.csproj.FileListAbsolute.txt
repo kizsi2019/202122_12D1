@@ -1,0 +1,10 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Katonaa\C# mappa\adatbázisproba\adatbázisproba\bin\Debug\adatbázisproba.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Katonaa\C# mappa\adatbázisproba\adatbázisproba\bin\Debug\adatbázisproba.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Katonaa\C# mappa\adatbázisproba\adatbázisproba\bin\Debug\adatbázisproba.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Katonaa\C# mappa\adatbázisproba\adatbázisproba\obj\Debug\adatbázisproba.csprojAssemblyReference.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Katonaa\C# mappa\adatbázisproba\adatbázisproba\obj\Debug\adatbázisproba.Form1.resources
+C:\Users\zsigm\OneDrive\Asztali gép\Katonaa\C# mappa\adatbázisproba\adatbázisproba\obj\Debug\adatbázisproba.Properties.Resources.resources
+C:\Users\zsigm\OneDrive\Asztali gép\Katonaa\C# mappa\adatbázisproba\adatbázisproba\obj\Debug\adatbázisproba.csproj.GenerateResource.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Katonaa\C# mappa\adatbázisproba\adatbázisproba\obj\Debug\adatbázisproba.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Katonaa\C# mappa\adatbázisproba\adatbázisproba\obj\Debug\adatbázisproba.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Katonaa\C# mappa\adatbázisproba\adatbázisproba\obj\Debug\adatbázisproba.pdb
